@@ -11,7 +11,7 @@ export default function Contact() {
             COMMS PANEL // CONTACT
           </p>
           <h2 className="mt-2 text-2xl font-semibold text-slate-50 md:text-3xl">
-            Open a Secure Channel
+            Contact Me!!!
           </h2>
         </div>
         <motion.div
