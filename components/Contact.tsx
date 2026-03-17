@@ -93,12 +93,12 @@ export default function Contact() {
                 <li>
                   GitHub:{" "}
                   <a
-                    href="https://github.com/"
+                    href="https://github.com/SUNKUSHANMUKH"
                     target="_blank"
                     rel="noreferrer"
                     className="text-neonPurple hover:underline"
                   >
-                    github.com/(add-username)
+                    github.com/SUNKUSHANMUKH
                   </a>
                 </li>
                 <li>
